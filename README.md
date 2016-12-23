@@ -1,2 +1,8 @@
 # opi-test
-Test for OPI
+Examen de data scientist. OPI
+
+##Dependencias
+- pandas
+- numpy
+- statsmodels
+- matplotlib
